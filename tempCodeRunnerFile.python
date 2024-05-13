@@ -1,0 +1,25 @@
+def calculate(operand1,operand2,operator):
+    # Perform the operation based on the operator
+    if operator == '+':
+        return operand1 + operand2
+    elif operator == '-':
+        return operand1 - operand2
+    elif operator == '*':
+        return operand1 * operand2
+    elif operator == '/':
+        if operand2 != 0:
+            return operand1 / operand2
+        else:
+            return "Division by zero error"
+    else:
+        return "Invalid operator"
+
+# Example usage:
+operator = input("Enter a mathematical operator:")
+operand1 = int(input("Enter a operand:"))
+operand2 = int(input("Enter a operand:"))
+
+result = calculate(operand1,operand2,operator)
+print("Result:", result)
+
+
