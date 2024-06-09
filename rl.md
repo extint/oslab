@@ -16,6 +16,8 @@ By the end, you'll have a fully functional game and an AI-based smart computer p
 - [Basics of RL](https://www.slideshare.net/slideshow/a-brief-overview-of-reinforcement-learning-applied-to-games/110276440)
 - [Fundamental of Mario](https://drive.google.com/file/d/1Q8-6vndo1GYvX_cduDS_AlgZMj5bbJMP/view?usp=sharing)
 
+**Domain:** Game Development, Reinforcement Learning
+
 **Difficulty:** Medium to Hard
 
 **Mentors:** Vedant Mehra (+91 8779564726), Labhansh Naik (+91 7506375854)
